@@ -1,0 +1,3 @@
+D:/Stm32project/FLY_SKY_01/cmake-build-debug/CMakeFiles/FLY_SKY_01.elf.dir
+D:/Stm32project/FLY_SKY_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Stm32project/FLY_SKY_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
